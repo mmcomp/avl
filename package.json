@@ -1,0 +1,26 @@
+{
+  "name": "tcpsocketserver",
+  "version": "1.0.0",
+  "description": "Tcp Socket Server for GPS trackers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "tcpsocket",
+    "gps"
+  ],
+  "author": "Mehrdad Mirsamie",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "gps-tracking": "^1.1.1",
+    "moment-jalaali": "^0.7.2",
+    "mongodb": "^3.0.3",
+    "net": "^1.0.2",
+    "proj4": "^2.4.4",
+    "proj4js": "^10.0.0",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
+  }
+}
