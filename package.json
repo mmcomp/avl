@@ -16,7 +16,7 @@
     "dgram": "^1.0.1",
     "gps-tracking": "^1.1.1",
     "moment-jalaali": "^0.7.2",
-    "mongodb": "^3.0.3",
+    "mongodb": "^3.7.4",
     "net": "^1.0.2",
     "proj4": "^2.4.4",
     "proj4js": "^10.0.0",
